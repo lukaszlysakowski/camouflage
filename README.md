@@ -1,6 +1,6 @@
 # Camouflage
 
-Generative camouflage pattern art built with [p5.js](https://p5js.org/).
+Generative camouflage pattern art built with [p5.js](https://p5js.org/) with vectors with subtle foreground to background differentiation.
 
 ## Usage
 
