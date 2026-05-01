@@ -8,7 +8,7 @@ Generative camouflage pattern art built with [p5.js](https://p5js.org/) with vec
 
 ## Usage
 
-Open `index.html` in a browser.
+Open [`index.html`](https://lukaszlysakowski.github.io/camouflage/index.html) in a browser.
 
 - **Click** to regenerate with new colors
 - **Press S** to save as PNG
